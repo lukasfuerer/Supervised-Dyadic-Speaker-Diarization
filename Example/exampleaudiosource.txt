@@ -1,0 +1,4 @@
+Example Audio and Example Learningset stemming from the EMRAI synthetic diarization corpus: 
+Edwards, E., Brenndoerfer, M., Robinson, A., Sadoughi, N., Finley, G. P., Korenevsky, M., Axtmann, N. & Suendermann-Oeft, D. (2018, September). A Free Synthetic Corpus for Speaker Diarization Research. In International Conference on Speech and Computer (pp. 113-122). Springer, Cham.
+
+The corpus is licensed under CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
